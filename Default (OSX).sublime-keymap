@@ -1,0 +1,3 @@
+[
+  { "keys": ["cmd+k", "cmd+enter"], "command": "smart_new_line" },
+]

@@ -1,0 +1,1 @@
+{"platforms": ["*"], "sublime_text": "*", "dependencies": [], "url": "", "version": "1.0.0", "description": "Automatic auto-completion of a new line based on the contents of the previous line."}
